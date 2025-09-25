@@ -1,2 +1,2 @@
-# tokenizers
+# Tokenizers
 Large Language Model Tokenizers from scratch
